@@ -2,6 +2,5 @@
 ## World is amazing
 * People
 * Animals
-* Birds
 * Balls
 * Ronaldo
