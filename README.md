@@ -3,4 +3,3 @@
 * People
 * Animals
 * Balls
-* Ronaldo
